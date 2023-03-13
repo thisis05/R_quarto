@@ -1,0 +1,185 @@
+---
+title: "심혈관중재시술 테크닉 비교(FLAVOUR)"
+format: 
+  revealjs:
+    theme: white
+    transition: slide
+    footer: "Fractional Flow Reserve or Intravascular Ultrasonography to Guide PCI"
+editor: visual
+---
+
+## Journal Title
+
+<br> <br>
+
+**F**ractional Flow Reserve or Intravascular Ultrasonography to Guide PCI
+
+심혈관 중재시술 테크닉 비교(FLAVOUR)
+
+<br> <br> <br>
+
+::: aside
+[Jouranl Link](https://www.nejm.org/doi/full/10.1056/NEJMoa2201546)
+:::
+
+## 연구 계기 {.smaller}
+
+**CAD (coronary artery disease)** 환자에게 **PCI (percutaneous coronary interventeion)** 시술 진행
+
+-   CAD : 관상동맥 질환, 심장에 혈액을 공급하는 주요 혈관이 좁아지는 상태
+
+-   PCI : 관상동맥 중재술, 관상동맥이 좁아져 있는 부위에 스탠트를 삽입하여 확장시키는 시술
+
+PCI 시술을 진행할 때 가이드라인을 잡고 디테일한 해부학적 상황 파악을 위해 **IVUS(Intravascular ultrasonography)**를 주로 사용함
+
+---
+
+**최근 FFR(Fractional flow reserve) 방법 또한 스탠트 시술의 영향을 미리 파악하는 데 사용되고 있으며 의학적 치료와 PCI의 가이드라인을 잡는데 사용되고 있음**
+
+-   IVUS : 관상동맥의 구조 및 협착을 진단하기 위해 초음파로 확인하는 방법
+
+-   FFR :협착된 관상동맥의 허혈 정도를 평가하기 위해 심장동맥 내부에 압력 센서를 삽입하여 측정하는 방법
+
+IVUS-guided PCI와 FER-guided PCI 의 효과 차이에 대한 data가 부족한 상황으로 이에 대한 연구가 필요한 상태
+
+
+## 실험 설계 {.smaller}
+
+::: panel-tabset
+### 표본 설정 및 실험 기간
+
+1.  목표 : IVUS와 비교했을 때, FER의 noninferiority를 평가
+
+2.  평가 방법 : 사후 clinical events 수치 <br>\
+    Clinical events
+
+    1.  death(사망)
+    2.  Myocardial infarction(심근경색)
+    3.  Revascularization (혈관재개방시술) <br> <br>
+
+3.  기존 실험 표본 개수 설계 : 1700명
+
+4.  FER / IVUS group 표본 개수 설계 : 850 / 850 (1:1 랜덤 배치)
+
+5.  실험기간 : 24개월
+
+### 통계적 설정
+
+1.  가설 <br> **FFR 그룹의 사건 발생률이 IVUS 그룹의 사건 발생률과 2.5% 이하의 차이가 있을 경우, FFR 그룹은 IVUS 그룹에 비해 non-inferior하다** <br>
+
+2.  통계 분석 방법 : 생존 분석
+
+    **1. Cox proportional hazards model : 공변량 통제 하에 시간\|사건 관계 예측**
+
+    **2. Kaplan-Meier method : 시간에 따른 사건 발생률**
+
+3.  신뢰구간 : one-sided 95%
+
+4.  type I error rate : 5% (의료 장비 평가 기준에 사용 되는 값)
+:::
+
+## 실험 결과 - (1) patients {.scrollable}
+
+::: panel-tabset
+### summary
+
+1.  실제 전체 표본 수 : 1682명
+
+2.  실제 FFR / IVUS group 표본 수 : 838/844 (약 1:1, 랜덤배치)
+
+**3. 성별, 나이, 질병, 병력 등등에 구애받지 않고 Randomly assigned**
+
+### Table
+
+Table1 : Characteristics of the Patients at Baseline
+
+<img src="table1.png" width="90%" height="90%"/>
+:::
+
+## 실험 결과 - (2) Follow-up {.scrollable}
+
+::: panel-tabset
+### summary
+
+F/U : 99.2 % (lost 14)
+<small>
+
+1. 두 그룹 모두 혈관의 특징이 유사했음
+
+2. 이전에 PCI를 받은 환자 수 - IVUS : 65.3% / FFR : 44.4%
+
+3. PCI를 받은 환자들 중 총 스탠트 수 및 스탠트 길이는 두 그룹이 유사했음
+
+4. PCI 빈도 - IVUS \> FFR
+
+5. 기타 미달 사항
+    
+  - 19명 : 적절 측정 실패 / FFR, IVUS 기준 통과 실패
+  
+  - 44명 : 프로토콜 위반[^1]
+
+</small>
+
+### Table
+
+Table2 : Procedural Characteristics at Baseline.
+
+<img src="table2.png" width="90%" height="90%"/> <img src="table2_1.png" width="90%" height="90%"/>
+:::
+
+
+
+[^1]: <small>11 : revascularization 기준 충족 미달 상태에서 PCI 수행 <br> 28 : 기준 만족함에도 PCI 연기 <br> 5 : DES(drug-eluting stent)로 PCI 수행하지 않음</small>
+
+
+
+## 실험 결과 - (3) outcome {.scrollable}
+
+::: panel-tabset
+### outcome
+<small>
+1.  primary outcome : FFR : 67 / IVUS : 71 (8.1% vs. 8.5%)
+
+2.  secondary outcome[^3] : 이 역시 두 그룹간 유사한 결과를 보임
+
+3.  그 외 : PCI 성공률 : 52.9% (FFR : 50.1%, IVUS : 54.8%)
+
+4.  P-value : 0.01
+
+**결론적으로 FFR의 non-inferiority (vs IVUS) 가 유의미하다고 할 수 있음**
+</small>
+
+### table
+
+<img src="table3.png" width="90%" height="90%"/>
+
+### figure
+
+<small> <center>**시간(개월) 당 사건 누적 발생률**</center> </small>
+
+<img src="figure1.png" width="90%" height="90%"/>
+:::
+
+
+
+[^3]: <small>secondary outcome : 각 환자 및 혈관 스탠트 개수, 뇌졸증, SAQ(Seattle Angina Questionnaire)에 의한 환자 응답 결과 Seattle Angina Questionnaire</small>
+
+## 결론 및 한계{.scrollable}
+
+::: panel-tabset
+### 결론
+
+24개월 동안 관상동맥 질환 환자들을 대상으로 실험한 결과, <br><br> FFR guidance가 사망, 심근경색, 혈관재생술 등 여러 지표 상에서 IVUS guidance에 밀리지 않는다는 걸 확인할 수 있었음.
+
+### 한계 {.smaller}
+
+1.  리스크[^4]가 적은 환자들을 대상으로 진행했다.
+
+-   리스크가 높은 환자들을 대상으로는 적합하지 않을 수 있다.
+
+2.  실험 운영진들이 FFR과 IVUS의 장단점에 대해 이미 인지하고 있었다.
+
+-   F/U 단계에서 이미 두 시술에 대해 알고 있으므로 혈관 재생술 빈도에 영향을 끼쳤을 수 있다.
+:::
+
+[^4]: coronary lesions의 해부학적 복잡도가 낮다.
