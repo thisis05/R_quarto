@@ -1,0 +1,113 @@
+---
+title: "심혈관중재시술 <br> 테크닉 비교 <br> <small>(RENOVATE-COMPLEX-PCI)</small>"
+author: "KIM YEONG HO"
+format: 
+  revealjs:
+    theme: white
+    transition: slide
+    footer: "Intravascular Imaging–Guided or Angiography-Guided Complex PCI"
+editor: visual
+---
+
+## Journal Title
+
+<br> 
+
+**I**ntravascular Imaging–Guided or Angiography-Guided Complex PCI
+
+<br>
+
+심혈관 중재시술 테크닉 비교(RENOVATE-COMPLEX-PCI)
+
+<br> <br> <br>
+
+::: aside
+[Jouranl Link](https://www.nejm.org/doi/10.1056/NEJMoa2216607)
+:::
+
+## 연구 계기 {.smaller}
+
+<br>
+**먼저, PCI란 ?**
+
+- PCI : 관상동맥 중재술, 관상동맥이 좁아져 있는 부위에 스탠트를 삽입하여 확장시키는 시술
+
+**PCI 시술을 위한 가이드라인 설정 방법**
+<br>
+
+::: columns
+::: {.column width="50%"}
+1. Intravascular-guided PCI
+
+초음파를 통해 PCI 시술 시 혈관 내부 상태를 확인하며 PCI를 진행하는 방법
+
+:::
+
+::: {.column width="50%"}
+2. Angiography-guided PCI 
+
+대부분의 PCI 시술에서 사용되는 방법으로 대조제를 주입하여 혈관을 시각화하여 PCI 시술을 돕는 방법
+
+:::
+:::
+
+
+## 연구 계기 {.smaller}
+
+<br>
+
+### Intravascular - guided > Angiograpy - guided
+
+<br>
+
+Intravascular-guided의 일종인 IVUS / OCT의 장점
+
+1. 병변 특성 선제 파악 가능
+
+2. 스탠트 사이즈, 설치 위치, 확장 가능 유무 파악 가능
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+
+IVUS (Intravascular Ultrasound)
+
+- 심장의 혈관 내부에서 초음파를 이용하여 혈관의 상태를 진단하는 검사방법
+
+:::
+
+::: {.column width="50%"}
+
+
+OCT (coherence tomography)
+
+- 레이저를 이용하여 스캔하여 고해상도 영상으로 나타내는 방법 
+
+:::
+:::
+
+<br>
+
+따라서 Intravasucular-guided PCI가 좀더 안전한 시술이 가능하다고 알려져 있음.
+
+**실제로 그러할 것인가?**
+
+---
+
+1. 연구 대상 : patients with complex coronary-artery lesions^[1]
+
+2. 문제점 
+
+- 위 환자들은 non-complex 한 환자들에 비해 PCI가 나쁜 결과를 불러일으킬 가능성이 많다
+
+3. 
+
+:::aside
+<small>^[1] : 관상동맥의 복잡한 협착이나 병변을 지니고 있는 환자</small>
+:::
+
+## 실험 설계 {.smaller}
+
+
+

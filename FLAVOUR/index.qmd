@@ -1,5 +1,6 @@
 ---
 title: "심혈관중재시술 테크닉 비교(FLAVOUR)"
+author: "KIM YEONG HO"
 format: 
   revealjs:
     theme: white
@@ -32,7 +33,7 @@ editor: visual
 
 PCI 시술을 진행할 때 가이드라인을 잡고 디테일한 해부학적 상황 파악을 위해 **IVUS(Intravascular ultrasonography)**를 주로 사용함
 
----
+------------------------------------------------------------------------
 
 **최근 FFR(Fractional flow reserve) 방법 또한 스탠트 시술의 영향을 미리 파악하는 데 사용되고 있으며 의학적 치료와 PCI의 가이드라인을 잡는데 사용되고 있음**
 
@@ -41,7 +42,6 @@ PCI 시술을 진행할 때 가이드라인을 잡고 디테일한 해부학적 
 -   FFR :협착된 관상동맥의 허혈 정도를 평가하기 위해 심장동맥 내부에 압력 센서를 삽입하여 측정하는 방법
 
 IVUS-guided PCI와 FER-guided PCI 의 효과 차이에 대한 data가 부족한 상황으로 이에 대한 연구가 필요한 상태
-
 
 ## 실험 설계 {.smaller}
 
@@ -101,22 +101,21 @@ Table1 : Characteristics of the Patients at Baseline
 ::: panel-tabset
 ### summary
 
-F/U : 99.2 % (lost 14)
-<small>
+F/U : 99.2 % (lost 14) <small>
 
-1. 두 그룹 모두 혈관의 특징이 유사했음
+1.  두 그룹 모두 혈관의 특징이 유사했음
 
-2. 이전에 PCI를 받은 환자 수 - IVUS : 65.3% / FFR : 44.4%
+2.  이전에 PCI를 받은 환자 수 - IVUS : 65.3% / FFR : 44.4%
 
-3. PCI를 받은 환자들 중 총 스탠트 수 및 스탠트 길이는 두 그룹이 유사했음
+3.  PCI를 받은 환자들 중 총 스탠트 수 및 스탠트 길이는 두 그룹이 유사했음
 
-4. PCI 빈도 - IVUS \> FFR
+4.  PCI 빈도 - IVUS \> FFR
 
-5. 기타 미달 사항
-    
-  - 19명 : 적절 측정 실패 / FFR, IVUS 기준 통과 실패
-  
-  - 44명 : 프로토콜 위반[^1]
+5.  기타 미달 사항
+
+-   19명 : 적절 측정 실패 / FFR, IVUS 기준 통과 실패
+
+-   44명 : 프로토콜 위반[^1]
 
 </small>
 
@@ -127,27 +126,22 @@ Table2 : Procedural Characteristics at Baseline.
 <img src="table2.png" width="90%" height="90%"/> <img src="table2_1.png" width="90%" height="90%"/>
 :::
 
-
-
 [^1]: <small>11 : revascularization 기준 충족 미달 상태에서 PCI 수행 <br> 28 : 기준 만족함에도 PCI 연기 <br> 5 : DES(drug-eluting stent)로 PCI 수행하지 않음</small>
-
-
 
 ## 실험 결과 - (3) outcome {.scrollable}
 
 ::: panel-tabset
 ### outcome
-<small>
-1.  primary outcome : FFR : 67 / IVUS : 71 (8.1% vs. 8.5%)
 
-2.  secondary outcome[^3] : 이 역시 두 그룹간 유사한 결과를 보임
+<small> 1. primary outcome : FFR : 67 / IVUS : 71 (8.1% vs. 8.5%)
+
+2.  secondary outcome[^2] : 이 역시 두 그룹간 유사한 결과를 보임
 
 3.  그 외 : PCI 성공률 : 52.9% (FFR : 50.1%, IVUS : 54.8%)
 
 4.  P-value : 0.01
 
-**결론적으로 FFR의 non-inferiority (vs IVUS) 가 유의미하다고 할 수 있음**
-</small>
+**결론적으로 FFR의 non-inferiority (vs IVUS) 가 유의미하다고 할 수 있음** </small>
 
 ### table
 
@@ -155,16 +149,18 @@ Table2 : Procedural Characteristics at Baseline.
 
 ### figure
 
-<small> <center>**시간(개월) 당 사건 누적 발생률**</center> </small>
+<small>
+
+<center>**시간(개월) 당 사건 누적 발생률**</center>
+
+</small>
 
 <img src="figure1.png" width="90%" height="90%"/>
 :::
 
+[^2]: <small>secondary outcome : 각 환자 및 혈관 스탠트 개수, 뇌졸증, SAQ(Seattle Angina Questionnaire)에 의한 환자 응답 결과 Seattle Angina Questionnaire</small>
 
-
-[^3]: <small>secondary outcome : 각 환자 및 혈관 스탠트 개수, 뇌졸증, SAQ(Seattle Angina Questionnaire)에 의한 환자 응답 결과 Seattle Angina Questionnaire</small>
-
-## 결론 및 한계{.scrollable}
+## 결론 및 한계 {.scrollable}
 
 ::: panel-tabset
 ### 결론
@@ -173,7 +169,7 @@ Table2 : Procedural Characteristics at Baseline.
 
 ### 한계 {.smaller}
 
-1.  리스크[^4]가 적은 환자들을 대상으로 진행했다.
+1.  리스크[^3]가 적은 환자들을 대상으로 진행했다.
 
 -   리스크가 높은 환자들을 대상으로는 적합하지 않을 수 있다.
 
@@ -182,4 +178,4 @@ Table2 : Procedural Characteristics at Baseline.
 -   F/U 단계에서 이미 두 시술에 대해 알고 있으므로 혈관 재생술 빈도에 영향을 끼쳤을 수 있다.
 :::
 
-[^4]: coronary lesions의 해부학적 복잡도가 낮다.
+[^3]: coronary lesions의 해부학적 복잡도가 낮다.
