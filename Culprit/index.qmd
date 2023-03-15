@@ -1,0 +1,241 @@
+---
+title: "Revascularization <br> During VA-ECMO <br> for AMI with CS"
+author: "Kim Yeong ho"
+format: 
+  revealjs:
+    theme: white
+    transition: slide
+    footer: "Culprit-Only Versus Immediate Multi-Vessel PCI in Patients with AMI Complicating Advanced Cardiogenic Shock Requiring VA-ECMO"
+editor: visual
+---
+
+## Journal Title
+
+<br> <br>
+
+**C**ulprit-Only Versus Immediate Multi-Vessel PCI in Patients with AMI Complicating Advanced Cardiogenic Shock Requiring VA-ECMO
+
+## 연구 대상 {.smaller}
+
+<br>
+
+#### 1. CS를 동반하는 AMI 환자들 중에서
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+-   AMI (Acute myocardial infarction)
+
+급성 심근경색
+:::
+
+::: {.column width="50%"}
+-   CS (cardiogenic shock)
+
+심근증후군, 심장이 충분한 양의 혈액을 체내에 필요에 맞게 펌핑하지 못하는 심장 부전의 형태
+:::
+:::
+
+<br>
+
+#### 2. 혈관재개방 시술 전에 VA-ECMO 시술을 겪은 환자
+
+-   VA-ECMO (venoarterial-extracorporeal membrane oxygenation)
+
+정맥-동맥 외피막 산소투여술, 산소로 풍부한 혈액을 만든 후 환자에 몸에 다시 주입시키는 기술
+
+## 비교 시술 {.smaller}
+
+<br>
+
+### Culprit - only PCI
+
+<br>
+
+증상을 일으키는 특정 관상동맥만을 치료하는 기술로, 튜브를 동맥에 삽입하여 좁아진 동맥을 확장하고 심장 혈액 공급 능력을 회복시키는 PCI 시술
+
+<br>
+
+### Non - culprit lesion (NCL) 에 따른 <br>Immediate multi-vessel PCI
+
+<br>
+
+전반적으로 모든 협착된 혈관에 대해 PCI를 즉각적으로 수행하는 치료기술로 Culprit - only PCI와 달리 Non-target 방식으로 진행하는 PCI 시술
+
+## 실험 설계 {.smaller}
+
+::: panel-tabset
+### 지표
+
+::: columns
+::: {.column width="50%"}
+#### 표본 수
+
+-   Culprit-only : 175명 vs NCL : 140명 <br> (총 315명)
+
+<small> 자세한 표본 설정 과정 Figure S1 참조 </small>
+:::
+
+::: {.column width="50%"}
+#### **Primary outcome**
+
+-   실험 이후 30일간 사망률 \| RRT 시행 수
+
+<small> RRT (renal replacment therapy) : 신부전 환자의 신장기능을 대신하는 치료방법 </small>
+
+-   12개월 간 Follow - up 하는 동안 사망률
+
+<br>
+
+#### **Secondary outcome**
+
+-   30일 간 심장 질병 사망률
+-   12개월간 급성 심근경색(MI) 재발
+-   혈관재개방시술 재시술
+-   etc
+:::
+:::
+
+### Figure S1
+
+<img src="tableS1.png" width="90%" height="90%"/>
+:::
+
+## 통계 분석 {.smaller}
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+#### 1. 범주형 변수
+
+<br> chi-square test를 통한 비교검정 <br><br>
+
+#### 2. 연속형 변수
+
+<br> Welch t-test를 통한 비교검정 <br><br>
+
+#### 3. 누적사건 발생률
+
+<br> Kaplan-Meier Model & Cox propotional hazard regression <br><br> 신뢰구간 : 95% <br><br>
+:::
+
+::: {.column width="50%"}
+#### 4. 다변량 모델
+
+<br> 단변량 변수 중 p-value \< 0.2이거나 연관이 있다고 여겨지는 변수를 선정 <br><br>
+
+#### 5. 성향 점수 매칭
+
+<br> 매칭된 공변량의 평균차이/표준편차(Standard mean difference)를 10% 이내로 맞춘 뒤 그룹별 1:1 매칭
+:::
+:::
+
+## 실험 결과 - (1) Baseline {.scrollable}
+
+::: panel-tabset
+### summary
+
+1.  총 표본 환자 수 : 315명 <br>
+
+    -   culprit-only : 175명 / NCl : 140명
+
+<br>
+
+2.  그룹 별 비중 유사 항목
+
+    -   Demographics(환자 특징) <small> 나이, 성별, 몸무게, 질환 여부... </small>
+
+    -   clinical presentation <small> 좌심실 혈액 박출량, 헤모글로빈 수치, 심박수... </small>
+
+    -   이외 사항 : 병원 치료 간 특징 / VA-ECMO 관리 특징
+
+### Table
+
+Table1 : Baseline Characteristics
+
+<img src="table1.png" width="90%" height="90%"/> <img src="table1_1.png" width="90%" height="90%"/>
+:::
+
+## 실험 결과 - (2) 절차 간 특징 {.scrollable}
+
+::: panel-tabset
+### summary
+
+1.  혈관 조영술 결과 / 절차 간 특징은 두 그룹이 유사
+
+<br>
+
+2.  그러나 SYNTAX 수치에 있어서는 두 그룹이 차이를 보임
+
+    pre-PCI : culprit - only \< Multi-vessel
+
+    post - PCI : culprit - only \> Multi-vessel
+
+<small> SYNTAX score : Synergy Between PCI With Taxus and Cardiac Surgery </small>
+
+### Table
+
+Table 2. Baseline Angiographic and Procedural Characteristics
+
+<img src="table2.png" width="90%" height="90%"/> <img src="table2_1.png" width="90%" height="90%"/>
+:::
+
+## 실험 결과 - 30일 간 경과 {.smaller}
+
+::: columns
+::: {.column width="70%"}
+<img src="figure1.png" width="150%" height="150%"/>
+
+events 발생률은 모두 **Culprit-only group보다 Multi-vessel group이 낮은 것으로 확인됨**
+
+<br>
+
+특히 주요 outcome인 (A)의 경우 확연한 차이를 보이고 있음 (p-value : 0.018)
+:::
+
+::: {.column width="30%"}
+**A : primary outcome**
+
+<br> B\~E : secondary outcome
+:::
+:::
+
+## 실험 결과 - 12개월 F/U {.smaller}
+
+::: panel-tabset
+### Figure
+
+<center><img src="figure2.png" width="80%" height="80%"/></center>
+
+Harzard Ratio 역시 성향 매칭 전과 후 모두 **Multi-vessel group이10% 이상 낮은 수치**를 보임을 확인할 수 있음
+
+<br>
+
+<small> 구체적 지표는 Table pannel에서 확인가능 </small>
+
+### Table
+
+<img src="table3.png" width="100%" height="100%"/>
+:::
+
+## 결론 {.smaller}
+
+<br>
+
+Culprit - only PCI 보다 immediate multi - vessel PCI가
+
+<br>
+
+1.  30일간 사망률 및 RRT 측면에서
+
+2.  12개월 F/U 시 사망률 (모든 원인) 측면에서
+
+<br>
+
+낮은 수치를 보이고 있으니, **리스크가 더 적다**고 볼 수 있다
+
+<br>
+
+따라서 PCI 시술 과정에서 NCL 혈관 재개방시술이 VA-ECMO를 요하는 심각한 CS 환자들에게도 좀 더 나은 방안이 될 수 있다

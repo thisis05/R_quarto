@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html#journal-title",
+    "href": "index.html#journal-title",
+    "title": "Revascularization  During VA-ECMO  for AMI with CS",
+    "section": "Journal Title",
+    "text": "Journal Title\n \nCulprit-Only Versus Immediate Multi-Vessel PCI in Patients with AMI Complicating Advanced Cardiogenic Shock Requiring VA-ECMO"
+  },
+  {
+    "objectID": "index.html#연구-대상",
+    "href": "index.html#연구-대상",
+    "title": "Revascularization  During VA-ECMO  for AMI with CS",
+    "section": "연구 대상",
+    "text": "연구 대상\n\n1. CS를 동반하는 AMI 환자들 중에서\n\n\n\n\nAMI (Acute myocardial infarction)\n\n급성 심근경색\n\n\nCS (cardiogenic shock)\n\n심근증후군, 심장이 충분한 양의 혈액을 체내에 필요에 맞게 펌핑하지 못하는 심장 부전의 형태\n\n\n\n2. 혈관재개방 시술 전에 VA-ECMO 시술을 겪은 환자\n\nVA-ECMO (venoarterial-extracorporeal membrane oxygenation)\n\n정맥-동맥 외피막 산소투여술, 산소로 풍부한 혈액을 만든 후 환자에 몸에 다시 주입시키는 기술"
+  },
+  {
+    "objectID": "index.html#비교-시술",
+    "href": "index.html#비교-시술",
+    "title": "Revascularization  During VA-ECMO  for AMI with CS",
+    "section": "비교 시술",
+    "text": "비교 시술\n\nCulprit - only PCI\n\n증상을 일으키는 특정 관상동맥만을 치료하는 기술로, 튜브를 동맥에 삽입하여 좁아진 동맥을 확장하고 심장 혈액 공급 능력을 회복시키는 PCI 시술\n\nNon - culprit lesion (NCL) 에 따른 Immediate multi-vessel PCI\n\n전반적으로 모든 협착된 혈관에 대해 PCI를 즉각적으로 수행하는 치료기술로 Culprit - only PCI와 달리 Non-target 방식으로 진행하는 PCI 시술"
+  },
+  {
+    "objectID": "index.html#실험-설계",
+    "href": "index.html#실험-설계",
+    "title": "Revascularization  During VA-ECMO  for AMI with CS",
+    "section": "실험 설계",
+    "text": "실험 설계\n\n지표Figure S1\n\n\n\n\n표본 수\n\nCulprit-only : 175명 vs NCL : 140명  (총 315명)\n\n 자세한 표본 설정 과정 Figure S1 참조 \n\nPrimary outcome\n\n실험 이후 30일간 사망률 | RRT 시행 수\n\n RRT (renal replacment therapy) : 신부전 환자의 신장기능을 대신하는 치료방법 \n\n12개월 간 Follow - up 하는 동안 사망률\n\n\nSecondary outcome\n\n30일 간 심장 질병 사망률\n12개월간 급성 심근경색(MI) 재발\n혈관재개방시술 재시술\netc"
+  },
+  {
+    "objectID": "index.html#통계-분석",
+    "href": "index.html#통계-분석",
+    "title": "Revascularization  During VA-ECMO  for AMI with CS",
+    "section": "통계 분석",
+    "text": "통계 분석\n\n\n\n1. 범주형 변수\n chi-square test를 통한 비교검정 \n2. 연속형 변수\n Welch t-test를 통한 비교검정 \n3. 누적사건 발생률\n Kaplan-Meier Model & Cox propotional hazard regression  신뢰구간 : 95% \n\n4. 다변량 모델\n 단변량 변수 중 p-value < 0.2이거나 연관이 있다고 여겨지는 변수를 선정 \n5. 성향 점수 매칭\n 매칭된 공변량의 평균차이/표준편차(Standard mean difference)를 10% 이내로 맞춘 뒤 그룹별 1:1 매칭"
+  },
+  {
+    "objectID": "index.html#실험-결과---1-baseline",
+    "href": "index.html#실험-결과---1-baseline",
+    "title": "Revascularization  During VA-ECMO  for AMI with CS",
+    "section": "실험 결과 - (1) Baseline",
+    "text": "실험 결과 - (1) Baseline\n\nsummaryTable\n\n\n\n총 표본 환자 수 : 315명 \n\nculprit-only : 175명 / NCl : 140명\n\n\n\n\n그룹 별 비중 유사 항목\n\nDemographics(환자 특징)  나이, 성별, 몸무게, 질환 여부… \nclinical presentation  좌심실 혈액 박출량, 헤모글로빈 수치, 심박수… \n이외 사항 : 병원 치료 간 특징 / VA-ECMO 관리 특징\n\n\n\n\nTable1 : Baseline Characteristics"
+  },
+  {
+    "objectID": "index.html#실험-결과---2-절차-간-특징",
+    "href": "index.html#실험-결과---2-절차-간-특징",
+    "title": "Revascularization  During VA-ECMO  for AMI with CS",
+    "section": "실험 결과 - (2) 절차 간 특징",
+    "text": "실험 결과 - (2) 절차 간 특징\n\nsummaryTable\n\n\n\n혈관 조영술 결과 / 절차 간 특징은 두 그룹이 유사\n\n\n\n그러나 SYNTAX 수치에 있어서는 두 그룹이 차이를 보임\npre-PCI : culprit - only < Multi-vessel\npost - PCI : culprit - only > Multi-vessel\n\n SYNTAX score : Synergy Between PCI With Taxus and Cardiac Surgery \n\n\nTable 2. Baseline Angiographic and Procedural Characteristics"
+  },
+  {
+    "objectID": "index.html#실험-결과---30일-간-경과",
+    "href": "index.html#실험-결과---30일-간-경과",
+    "title": "Revascularization  During VA-ECMO  for AMI with CS",
+    "section": "실험 결과 - 30일 간 경과",
+    "text": "실험 결과 - 30일 간 경과\n\n\n\nevents 발생률은 모두 Culprit-only group보다 Multi-vessel group이 낮은 것으로 확인됨\n\n특히 주요 outcome인 (A)의 경우 확연한 차이를 보이고 있음 (p-value : 0.018)\n\nA : primary outcome\n B~E : secondary outcome"
+  },
+  {
+    "objectID": "index.html#실험-결과---12개월-fu",
+    "href": "index.html#실험-결과---12개월-fu",
+    "title": "Revascularization  During VA-ECMO  for AMI with CS",
+    "section": "실험 결과 - 12개월 F/U",
+    "text": "실험 결과 - 12개월 F/U\n\nFigureTable\n\n\n\n\n\nHarzard Ratio 역시 성향 매칭 전과 후 모두 Multi-vessel group이10% 이상 낮은 수치를 보임을 확인할 수 있음\n\n 구체적 지표는 Table pannel에서 확인가능"
+  },
+  {
+    "objectID": "index.html#결론",
+    "href": "index.html#결론",
+    "title": "Revascularization  During VA-ECMO  for AMI with CS",
+    "section": "결론",
+    "text": "결론\n\nCulprit - only PCI 보다 immediate multi - vessel PCI가\n\n\n30일간 사망률 및 RRT 측면에서\n12개월 F/U 시 사망률 (모든 원인) 측면에서\n\n\n낮은 수치를 보이고 있으니, 리스크가 더 적다고 볼 수 있다\n\n따라서 PCI 시술 과정에서 NCL 혈관 재개방시술이 VA-ECMO를 요하는 심각한 CS 환자들에게도 좀 더 나은 방안이 될 수 있다\n\n\nCulprit-Only Versus Immediate Multi-Vessel PCI in Patients with AMI Complicating Advanced Cardiogenic Shock Requiring VA-ECMO"
+  }
+]
