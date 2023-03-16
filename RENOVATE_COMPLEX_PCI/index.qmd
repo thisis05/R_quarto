@@ -66,23 +66,22 @@ Intravascular-guided의 일종인 IVUS / OCT의 장점
 
 2. 스탠트 사이즈, 설치 위치, 확장 가능 유무 파악 가능
 
-<br>
 
 ::: columns
 ::: {.column width="50%"}
 
-IVUS (Intravascular Ultrasound)
+    IVUS (Intravascular Ultrasound)
 
-- 심장의 혈관 내부에서 초음파를 이용하여 혈관의 상태를 진단하는 검사방법
+    심장의 혈관 내부에서 초음파를 이용하여 혈관의 상태를 진단하는 검사방법 
+
 
 :::
 
 ::: {.column width="50%"}
 
+    OCT (coherence tomography)
 
-OCT (coherence tomography)
-
-- 레이저를 이용하여 스캔하여 고해상도 영상으로 나타내는 방법 
+    레이저를 이용하여 스캔하여 고해상도 영상으로 나타내는 방법
 
 :::
 :::
@@ -91,23 +90,236 @@ OCT (coherence tomography)
 
 따라서 Intravasucular-guided PCI가 좀더 안전한 시술이 가능하다고 알려져 있음.
 
-**실제로 그러할 것인가?**
 
----
+<center>  **실제로 그러할 것인가?** </center>
 
-1. 연구 대상 : patients with complex coronary-artery lesions^[1]
+## 연구 개요 {.smaller}
 
-2. 문제점 
+#### 1. 연구 대상 
 
-- 위 환자들은 non-complex 한 환자들에 비해 PCI가 나쁜 결과를 불러일으킬 가능성이 많다
+patients with complex coronary-artery lesions
 
-3. 
+(관상동맥의 복잡한 협착이나 병변을 지니고 있는 환자) <br><br>
 
-:::aside
-<small>^[1] : 관상동맥의 복잡한 협착이나 병변을 지니고 있는 환자</small>
+
+#### 2. 대상 설정 이유
+
+
+위 환자들은 non-complex한 환자들에 비해 PCI가 나쁜 결과를 불러올 가능성이 많음
+
+<br>
+
+학계에선 IVUS / OCT가 선별된 환자들에게 스탠트 시술을 하기 위한 적절한 방법으로 추천됨 
+
+<br>
+
+따라서 본 연구는 선별된 환자들 (complex lesions) 을 기준으로 
+
+Intravascular-guided PCI와 Angiograyphy-guided PCI를 비교하기로 함
+
+## 연구 설계 {.smaller}
+
+<br> 
+
+#### 1. 표본 설정 
+
+PCI for complex coronary-artery lesions 진행 중이었던 19세 이상 환자
+
+총 1639명을 2:1 (Intravausculr : Angiograpy) 비율로 Randomized 
+
+<small>
+Intravasculr : 1092명 , Angiography : 547명
+</small>
+
+<br>
+
+
+#### 2. 기간 
+
+F/U duration median : 2.1 years (1.4 ~ 3 years) 
+
+## 연구 설계 {.smaller}
+
+<br>
+
+#### 3. end point
+
+
+::: columns
+::: {.column width="70%"}
+
+- primary outcome 
+
+  target vessel failure (TVF) : 사망 (심장 관련), TVR - MI, CD-TVR
+
+- secondary outcome 
+
+  이외 모든 원인의 죽음, 절차 진행중 MI 관련 TVF ... 등
+
+
+:::
+::: {.column width="30%"}
+
+
+<small>
+
+- TVR-MI : PCI 수술 후 발생할 수 있는 심근경색의 형태
+
+- CD-TVR : PCI 시술 이후 수술 부위 관련 증상 발현 시 새로 혈관 개선 수술을 진행하는 것
+
+- MI : 심근 경색
+
+</small>
+
+:::
 :::
 
-## 실험 설계 {.smaller}
+## 통계 분석 {.smaller}
+
+<br>
+
+귀무가설 : 두 집단의 (I and A) primary outcome 차이가 없을 것이다.
+
+<br>
+
+신뢰구간 : 90% (양측 검정 5%)
+
+<br>
+
+진행 방식 : Intention - to - treat 
+
+<small>
+
+- ITT 분석 
+
+실제로 치료를 받았는지에 따라서 환자군을 나누는 것이 아니라 초기에 치료군을 나눈 것에 맞추어서 분석을 하는 것
+
+</small>
+
+모델 : Kaplan-Meier Model / Cox hazard regression 
+<small> 
+
+Muliplicity를 교정하지 않은 실험이기에 Secondary Outcome에 대해선 정확한 치료 효과를 추론하긴 어려움 
+
+</small>
+ 
+
+## 실험 결과 - (1) Patients {.scrollable}
+
+::: panel-tabset
+
+### Summary
+
+두 그룹 간 비교 시 유사항목
+
+
+- 나이
+
+- 성별
+
+- 의료 기록, 질환 (당뇨, 고혈압, 흡연 ...  )
+
+- 처방 약물 기록 
+
+      Angigraphy group의 13명이 Intravascular Imaging을 이용한 시술을 받았지만 
+      ITT 분석 원리에 의해 포함됨
+
+### Table
+
+<img src= "table1.png" width="90%" height="90%"/>
+
+:::
+
+## 실험 결과 - (2) 절차 간 특징 {.scrollable}
+
+::: panel-tabset
+
+### Summary
+
+두 그룹 간 비교 시 유사항목
+
+
+- 관상 동맥 lesion의 특징
+
+- PCI 절차
+
+- PCI로 치료된 관상 동맥 lesion
+
+- 관상 동맥 lesion의 심각도
+
+<br>
+
+    Intravascular group 
+
+    IVUS : 73.3%
+    OCT : 25.5%
+
+
+    Angiography group
+
+    IVUS : 100% (13/13)
+
+    * 이전 slide에서 설명한 13명
 
 
 
+### Table
+
+<img src= "table2.png" width="90%" height="90%"/>
+
+:::
+
+
+## 실험 결과 - (3) outcome {.scrollable}
+
+::: panel-tabset
+
+### Summary
+
+1. primary end point (cumulative incidence at 3 years)
+
+- Intravascular group : 7.7%
+
+- Angiography group : 12.3%
+
+- hazard ratio : 0.64 (95% 신뢰구간으로 추정, p-value : 0.008)
+
+2. secondary end point 
+
+    
+- 절차 중 MI와 관련없는 TVF
+
+        Intravascular group: 5.1%
+        Angiography group : 8.7%
+        hazard ration : 0.59
+        
+- 대부분의 항목에서 Intravasculr group이 Angiograpy group보다 낮은 수치를 보임
+    
+### Table
+
+<img src= "table3.png" width="90%" height="90%"/>
+
+### Figure
+
+<img src = "figure1.png" width="100%" height="100%">
+:::
+
+## 결론
+
+<br>
+
+<center>
+
+Intravascular imaging-guided PCI가 <br>
+angiography-guided PCI 보다 
+
+<br>
+
+- 심장질환 관련 사망
+- target - vessel 관련 MI
+- TVR -MI
+...
+
+관련 risk가 적다 !
+
+</center>

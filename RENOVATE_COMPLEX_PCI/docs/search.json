@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html#journal-title",
+    "href": "index.html#journal-title",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "Journal Title",
+    "text": "Journal Title\n\nIntravascular Imaging–Guided or Angiography-Guided Complex PCI\n\n심혈관 중재시술 테크닉 비교(RENOVATE-COMPLEX-PCI)\n  \n\n\nJouranl Link"
+  },
+  {
+    "objectID": "index.html#연구-계기",
+    "href": "index.html#연구-계기",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "연구 계기",
+    "text": "연구 계기\n 먼저, PCI란 ?\n\nPCI : 관상동맥 중재술, 관상동맥이 좁아져 있는 부위에 스탠트를 삽입하여 확장시키는 시술\n\nPCI 시술을 위한 가이드라인 설정 방법 \n\n\n\nIntravascular-guided PCI\n\n초음파를 통해 PCI 시술 시 혈관 내부 상태를 확인하며 PCI를 진행하는 방법\n\n\nAngiography-guided PCI\n\n대부분의 PCI 시술에서 사용되는 방법으로 대조제를 주입하여 혈관을 시각화하여 PCI 시술을 돕는 방법"
+  },
+  {
+    "objectID": "index.html#연구-계기-1",
+    "href": "index.html#연구-계기-1",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "연구 계기",
+    "text": "연구 계기\n\nIntravascular - guided > Angiograpy - guided\n\nIntravascular-guided의 일종인 IVUS / OCT의 장점\n\n병변 특성 선제 파악 가능\n스탠트 사이즈, 설치 위치, 확장 가능 유무 파악 가능\n\n\n\nIVUS (Intravascular Ultrasound)\n\n심장의 혈관 내부에서 초음파를 이용하여 혈관의 상태를 진단하는 검사방법 \n\nOCT (coherence tomography)\n\n레이저를 이용하여 스캔하여 고해상도 영상으로 나타내는 방법\n\n\n\n따라서 Intravasucular-guided PCI가 좀더 안전한 시술이 가능하다고 알려져 있음.\n\n실제로 그러할 것인가?"
+  },
+  {
+    "objectID": "index.html#연구-개요",
+    "href": "index.html#연구-개요",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "연구 개요",
+    "text": "연구 개요\n1. 연구 대상\npatients with complex coronary-artery lesions\n(관상동맥의 복잡한 협착이나 병변을 지니고 있는 환자) \n2. 대상 설정 이유\n위 환자들은 non-complex한 환자들에 비해 PCI가 나쁜 결과를 불러올 가능성이 많음\n\n학계에선 IVUS / OCT가 선별된 환자들에게 스탠트 시술을 하기 위한 적절한 방법으로 추천됨\n\n따라서 본 연구는 선별된 환자들 (complex lesions) 을 기준으로\nIntravascular-guided PCI와 Angiograyphy-guided PCI를 비교하기로 함"
+  },
+  {
+    "objectID": "index.html#연구-설계",
+    "href": "index.html#연구-설계",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "연구 설계",
+    "text": "연구 설계\n\n1. 표본 설정\nPCI for complex coronary-artery lesions 진행 중이었던 19세 이상 환자\n총 1639명을 2:1 (Intravausculr : Angiograpy) 비율로 Randomized\n Intravasculr : 1092명 , Angiography : 547명 \n\n2. 기간\nF/U duration median : 2.1 years (1.4 ~ 3 years)"
+  },
+  {
+    "objectID": "index.html#연구-설계-1",
+    "href": "index.html#연구-설계-1",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "연구 설계",
+    "text": "연구 설계\n\n3. end point\n\n\n\nprimary outcome\ntarget vessel failure (TVF) : 사망 (심장 관련), TVR - MI, CD-TVR\nsecondary outcome\n이외 모든 원인의 죽음, 절차 진행중 MI 관련 TVF … 등\n\n\n\n\nTVR-MI : PCI 수술 후 발생할 수 있는 심근경색의 형태\nCD-TVR : PCI 시술 이후 수술 부위 관련 증상 발현 시 새로 혈관 개선 수술을 진행하는 것\nMI : 심근 경색"
+  },
+  {
+    "objectID": "index.html#통계-분석",
+    "href": "index.html#통계-분석",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "통계 분석",
+    "text": "통계 분석\n\n귀무가설 : 두 집단의 (I and A) primary outcome 차이가 없을 것이다.\n\n신뢰구간 : 90% (양측 검정 5%)\n\n진행 방식 : Intention - to - treat\n\n\nITT 분석\n\n실제로 치료를 받았는지에 따라서 환자군을 나누는 것이 아니라 초기에 치료군을 나눈 것에 맞추어서 분석을 하는 것\n\n모델 : Kaplan-Meier Model / Cox hazard regression \nMuliplicity를 교정하지 않은 실험이기에 Secondary Outcome에 대해선 정확한 치료 효과를 추론하긴 어려움"
+  },
+  {
+    "objectID": "index.html#실험-결과---1-patients",
+    "href": "index.html#실험-결과---1-patients",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "실험 결과 - (1) Patients",
+    "text": "실험 결과 - (1) Patients\n\nSummaryTable\n\n\n두 그룹 간 비교 시 유사항목\n\n나이\n성별\n의료 기록, 질환 (당뇨, 고혈압, 흡연 … )\n처방 약물 기록\nAngigraphy group의 13명이 Intravascular Imaging을 이용한 시술을 받았지만 \nITT 분석 원리에 의해 포함됨"
+  },
+  {
+    "objectID": "index.html#실험-결과---2-절차-간-특징",
+    "href": "index.html#실험-결과---2-절차-간-특징",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "실험 결과 - (2) 절차 간 특징",
+    "text": "실험 결과 - (2) 절차 간 특징\n\nSummaryTable\n\n\n두 그룹 간 비교 시 유사항목\n\n관상 동맥 lesion의 특징\nPCI 절차\nPCI로 치료된 관상 동맥 lesion\n관상 동맥 lesion의 심각도\n\n\nIntravascular group \n\nIVUS : 73.3%\nOCT : 25.5%\n\n\nAngiography group\n\nIVUS : 100% (13/13)\n\n* 이전 slide에서 설명한 13명"
+  },
+  {
+    "objectID": "index.html#실험-결과---3-outcome",
+    "href": "index.html#실험-결과---3-outcome",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "실험 결과 - (3) outcome",
+    "text": "실험 결과 - (3) outcome\n\nSummaryTableFigure\n\n\n\nprimary end point (cumulative incidence at 3 years)\n\n\nIntravascular group : 7.7%\nAngiography group : 12.3%\nhazard ratio : 0.64 (95% 신뢰구간으로 추정, p-value : 0.008)\n\n\nsecondary end point\n\n\n절차 중 MI와 관련없는 TVF\n  Intravascular group: 5.1%\n  Angiography group : 8.7%\n  hazard ration : 0.59\n대부분의 항목에서 Intravasculr group이 Angiograpy group보다 낮은 수치를 보임"
+  },
+  {
+    "objectID": "index.html#결론",
+    "href": "index.html#결론",
+    "title": "심혈관중재시술  테크닉 비교  (RENOVATE-COMPLEX-PCI)",
+    "section": "결론",
+    "text": "결론\n\n\nIntravascular imaging-guided PCI가  angiography-guided PCI 보다\n\n\n심장질환 관련 사망\ntarget - vessel 관련 MI\nTVR -MI …\n\n관련 risk가 적다 !\n\n\n\nIntravascular Imaging–Guided or Angiography-Guided Complex PCI"
+  }
+]
