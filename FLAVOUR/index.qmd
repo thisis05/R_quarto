@@ -48,7 +48,7 @@ IVUS-guided PCI와 FER-guided PCI 의 효과 차이에 대한 data가 부족한 
 ::: panel-tabset
 ### 표본 설정 및 실험 기간
 
-1.  목표 : IVUS와 비교했을 때, FER의 noninferiority를 평가
+1.  목표 : IVUS와 비교했을 때, FFR의 noninferiority를 평가
 
 2.  평가 방법 : 사후 clinical events 수치 <br>\
     Clinical events
